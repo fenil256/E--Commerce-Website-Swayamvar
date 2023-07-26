@@ -1,1 +1,0 @@
-document.getElementsByClassName("pro").alert = "item is in the cart "; 
